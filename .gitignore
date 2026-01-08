@@ -1,0 +1,28 @@
+# --- Security (CRITICAL) ---
+.env
+.env.local
+secrets.toml
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# --- Streamlit ---
+.streamlit/
+# Exception: You might want to commit config.toml if you have custom themes, 
+# but usually secrets.toml must be ignored.
+
+# --- Data & Local Runtime ---
+# We keep the 'mock_db.json' (seed data) but ignore the dynamic memory
+# so users start with a fresh brain when they clone it.
+data/workover_memory.json
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db

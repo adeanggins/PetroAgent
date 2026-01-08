@@ -1,0 +1,29 @@
+{
+    "NF-04": {
+      "status": "active",
+      "last_test_oil": 300,
+      "potential_oil": 550,
+      "water_cut": 10,
+      "reservoir_pressure": 3200,
+      "mechanical_issues": "None",
+      "description": "Stable producer showing skin damage indications."
+    },
+    "NF-09": {
+      "status": "shut-in",
+      "last_test_oil": 0,
+      "potential_oil": 800,
+      "water_cut": 5,
+      "reservoir_pressure": 4000,
+      "mechanical_issues": "Collapsed Casing at 5000ft",
+      "description": "High potential well shut-in due to structural failure."
+    },
+    "NF-12": {
+      "status": "active",
+      "last_test_oil": 120,
+      "potential_oil": 130,
+      "water_cut": 85,
+      "reservoir_pressure": 1800,
+      "mechanical_issues": "None",
+      "description": "Marginal producer. Low ROI potential."
+    }
+  }

@@ -128,5 +128,15 @@ This project adheres to strict Data Management principles:
 - [ ] Retrieval Augmented Generation (RAG) to parse PDF daily drilling reports.
 
 - [ ] Economic Agent to calculate NPV/IRR for each candidate.
+
+## Agent Visual
+1. Initial View
+   ![Initial Interface](asset/Result1.png)
+2. Running Process
+   ![Running Process](asset/Result4.png)
+4. Result 1
+   ![Result 1](asset/Result2.png)
+6. Result 2
+   ![Result 2](asset/Result3.png)
 ____
 Created by [Ade Anggi Naluriawan Santoso] - Petroleum Engineer & Data Scientist
